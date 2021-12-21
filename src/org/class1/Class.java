@@ -1,5 +1,12 @@
 package org.class1;
 
+<<<<<<< HEAD
+public class Class {
+	private void syso() {
+		System.out.println("syso");
+
+	}
+=======
 import java.util.ArrayList;
 import java.util.List;
 
@@ -21,4 +28,5 @@ public class Class {
 	}
 	
 	
+>>>>>>> 9371620131015074431397b31e7f9038f474a6b8
 
